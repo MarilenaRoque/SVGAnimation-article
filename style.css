@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(7, 97, 4);
+}
+
+.content {
+    height: 100vh; /* The content will occupy all the view port */
+}
