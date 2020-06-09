@@ -1,18 +1,9 @@
-# Positioning and Floating Elements
+# SVG Animation Article
 
-> This project assigment is to copy this article from the New York Times.
-Url: /home/acer/readme-template/README.md
+> This project is part of a step-by-step article of how to build your first SVG
 
-![screenshot](/assets/images/screenshot.png)
+![screenshot](/final.gif)
 
-    This project goal is to understand and apply CSS position and float for different elements.
-
-    Requirements:
-
-    Embedding images
-    Working with forms (buttons in this case)
-    Floats and positioning
-    The box model
 
 ## Built With
 
@@ -20,9 +11,7 @@ Url: /home/acer/readme-template/README.md
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/MarilenaRoque/NewYorkTimesProject/homePage/index.html)
-
-
+[Live Demo Link](https://marilenaroque.github.io/SVGAnimation-article/)
 
 
 
@@ -34,11 +23,6 @@ Url: /home/acer/readme-template/README.md
 - Twitter: [@MariRoq88285995](https://twitter.com/MariRoq88285995)
 - Linkedin: [roquemarilena](https://www.linkedin.com/in/roquemarilena/)
 
-👤 **Jessica Farias**
-
-- Github: [krash46](https://github.com/krash46)
-- Twitter: [@FariasRosado](https://twitter.com/FariasRosado)
-- Linkedin: [jessica-michelle-farias-rosado](https://www.linkedin.com/in/jessica-michelle-farias-rosado/)
 
 ## 🤝 Contributing
 
