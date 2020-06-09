@@ -1,7 +1,41 @@
 body {
     background-color: rgb(7, 97, 4);
+    overflow: hidden;
 }
 
 .content {
     height: 100vh; /* The content will occupy all the view port */
 }
+
+svg {
+    width: 70px;
+    position: absolute;
+    animation: run 5s linear infinite, run-the-field 7s linear infinite;
+    
+}
+
+
+@keyframes run{
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes run-the-field {
+    0% {
+        left: -70px; /* To hide all the svg element */
+        bottom: 50px;
+    }
+    25% {
+        bottom: -250px;
+    }
+    75% {
+        bottom: 250px;
+    }
+    100% {
+        left: 105vw;
+        bottom: 50px;
+    }
+}
+
+
